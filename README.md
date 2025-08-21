@@ -3,7 +3,7 @@
 Clone upstream
 
 ```bash
-git clone git@github.com:meta-llama/llama-stack.git llama-stack
+git clone git@github.com:llamastack/llama-stack.git llama-stack
 ```
 
 Change dir
